@@ -1,4 +1,4 @@
-package parsePDm;
+package com.pdm;
 
 public class Domain {
     private String domainId;

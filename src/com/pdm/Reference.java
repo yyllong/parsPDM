@@ -1,4 +1,4 @@
-package parsePDm;
+package com.pdm;
 
 public class Reference {
     private String FKId;

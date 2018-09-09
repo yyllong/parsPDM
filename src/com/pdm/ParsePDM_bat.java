@@ -1,4 +1,4 @@
-package parsePDm;
+package com.pdm;
 
 import java.io.File;
 import java.sql.Connection;

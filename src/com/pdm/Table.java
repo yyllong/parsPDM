@@ -1,4 +1,4 @@
-package parsePDm;
+package com.pdm;
 
 import java.util.List;
 
