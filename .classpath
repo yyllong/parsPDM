@@ -2,8 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/yyllong/workspace/test/dom4j-2.0.0-ALPHA-2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/yyllong/workspace/test/jaxen-1.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/yyllong/workspace/test/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yyllong/workspace/parsePDM/dom4j-2.0.0-ALPHA-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yyllong/workspace/parsePDM/jaxen-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yyllong/workspace/parsePDM/ojdbc6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
