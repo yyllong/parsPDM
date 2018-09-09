@@ -18,7 +18,7 @@ import org.dom4j.io.SAXReader;
 
 public class ParsePDM {
 	 	private Element root;
-	    private String filename="销售系统数据库设计";
+	    private String filename="OA系统数据库设计";
 	    public ParsePDM() throws DocumentException{
 	        SAXReader reader = new SAXReader();
 	        File pdm = new File("D:\\"+filename+".pdm");
